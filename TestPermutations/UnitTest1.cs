@@ -11,6 +11,7 @@ namespace TestPermutations
         {
             var result = Permutations.Compute(4);
             Assert.IsTrue(result==24);
+
         }
     }
 }
